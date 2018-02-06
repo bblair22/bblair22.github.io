@@ -5,7 +5,7 @@
 * { margin: 0; box-sizing: border-box; } 
 
 body { 
-    font-size: 18px; 
+    font-size: 16px; 
     line-height: 24px;
     font-family: sans-serif;
     color: green;
@@ -17,9 +17,9 @@ h1 {
 }
 
 h2 {
-    font-size:1.2rem;
+    font-size: 1.3rem;
     text-align: center;
-    border-bottom: 1px solid #bbb;
+    border-bottom: 2px solid #bbb;
 }
 
 header, main, footer {
